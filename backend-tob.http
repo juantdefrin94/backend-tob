@@ -1,0 +1,6 @@
+@backend_tob_HostAddress = http://localhost:5105
+
+GET {{backend_tob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
